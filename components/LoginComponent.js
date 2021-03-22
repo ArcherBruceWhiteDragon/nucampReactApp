@@ -7,7 +7,6 @@ import * as Permissions from 'expo-permissions';
 import * as ImageManipulator from 'expo-image-manipulator';
 import * as MediaLibrary from 'expo-media-library';
 import { createBottomTabNavigator } from 'react-navigation';
-import * as FaceDetector from 'expo-face-detector';
 import { baseUrl } from '../shared/baseUrl';
 
 class LoginTab extends Component {
